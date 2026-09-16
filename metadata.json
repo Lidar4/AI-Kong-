@@ -1,0 +1,6 @@
+{
+  "name": "সর্বকাজ AI বন্ধু",
+  "description": "সহজ, গোছানো এবং বুদ্ধিমান বাংলা AI চ্যাটবট — যা প্রশ্নোত্তরের পাশাপাশি নিজের সোর্স কোড নিজেই পরিবর্তন করতে সক্ষম।",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
